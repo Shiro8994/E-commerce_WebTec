@@ -14,12 +14,12 @@
                     "Ports": "Thunderbolt 4 (USB-C), HDMI, SDXC card slot, MagSafe 3",
                     "OS": "macOS Sonoma"
                 },
-                "ImageSource": "images/MacBookPro-front.png",
+                "ImageSource": "Images/MacBookAir-front.png",
                 "ImageSide": [
-                    "images/macbookpro-keyboard.png",
-                    "images/macbookpro-side.png",
-                    "images/macbookpro-input.png",
-                    "images/macbookpro-close.png"
+                    "Images/macbookair-keyboard.png",
+                    "Images/macbookair-side.png",
+                    "Images/macbookair-input.png",
+                    "Images/macbookair-close.png"
                 ]
             },
             "Macbook_Air": {
