@@ -16,7 +16,7 @@
                 },
                 "ImageSource": "Images/MacBookPro-front.png",
                 "ImageSide": [
-                    "Images/macbookpro-keyboard.png",
+                    "images/macbookpro-keyboard.png",
                     "Images/macbookpro-side.png",
                     "Images/macbookpro-input.png",
                     "Images/macbookpro-close.png"
